@@ -7,14 +7,28 @@ create a comprehensive data model for analyzing sales and expenses. The project 
 # Project Steps
 1. Data Import
 The dataset was downloaded from DataCamp and imported into Power BI.
-Data source : https://assets.datacamp.com/production/repositories/6373/datasets
+Data source : [https://assets.datacamp.com/production/repositories/6373/datasets](https://assets.datacamp.com/production/repositories/6373/datasets/dd3112786b7aabfcdb7c4bdd451953d4736482e8/Case%20Study_%20Ecommerce%20Analysis%20in%20Power%20BI%20-%20Exercises%20and%20Datasets.pdf)
 2. Data Cleaning
 Ensure there were no missing or duplicate values, and any errors were corrected.
 Date and time formats were adjusted to be suitable for analysis.
 
-3 *Building the Data Model:
+3. Building the Data Model:
 
-Combine multiple files.
-Filter out invalid data.
-Create metrics for customers and orders.
-Utilize Power Query to determine products that are frequently purchased together.
+* Combine multiple files.
+* Filter out invalid data.
+* Create metrics for customers and orders.
+* Utilize Power Query to determine products that are frequently purchased together.
+
+4. Data Analysis:
+Sales and Expense Data Analysis:
+Combined multiple files,Filtered out invalid data,Created metrics for customers and orders
+Utilized Power Query to determine frequently purchased products.
+Profitability Analysis:Created metrics for the most profitable products and customers.
+Built a sales map by state.
+Shipping Cost Analysis
+Explored shipping cost metrics.
+Conducted a what-if analysis to display the impact of shipping higher quantities on shipping costs.
+
+5. Creating Visualizations:
+Used Power BI to create comprehensive visualizations such as bar charts, pie charts, and Cards to display and analyze the data.
+Designed interactive dashboards that allow users to explore the data easily and gain valuable insights.
